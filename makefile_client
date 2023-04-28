@@ -1,0 +1,2 @@
+client:*c *.h
+	gcc client.c gomoku.c -o ./client -I./
